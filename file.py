@@ -31,3 +31,56 @@
 
 # a=67
 # print(chr(a))=prints alphabets
+
+
+# a=10
+# if a<20:
+#     print("Welcome")
+
+# age=9
+
+# if age>18:
+#     print("you are eligible to vote")
+# else:
+#     print("you are not eligible to vote")
+
+
+# print(chr(65))
+
+# print(ord('a'))
+
+
+# b="male"
+
+# print("a" in "bang")
+# print("a" not in "bang")
+
+# print("b" is  "male")
+# print("b" is not "male")
+
+
+# num=int(input("enter the number"))
+
+# if num%2==0:
+#     print("it is a even")
+
+# else:
+#     print("it is a odd")
+
+
+# item=input("enter the phone : ")
+# if item=="mi":
+#     print("your is mi")
+# elif item=="sumsung":
+#     print("your phone is sumsung")
+# else:
+#     print("nin janmuke phone bere kedu")
+
+
+a=10
+
+if a>5:
+    if a>3:
+        print(a,"is greater")
+
+
