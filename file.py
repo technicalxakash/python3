@@ -77,10 +77,45 @@
 #     print("nin janmuke phone bere kedu")
 
 
-a=10
+# a=10
 
-if a>5:
-    if a>3:
-        print(a,"is greater")
+# if a>5:
+#     if a>3:
+#         print(a,"is greater")
 
 
+# i=0
+# while i<=10:
+#     print("hello")
+#     i=i+1
+
+
+# for i in "welcome":
+#     print(i)
+
+
+# w="sunny"
+
+# if w=="sunny" or w=="rainy":
+#     print("correct")
+# else:
+#     print("wrong")
+
+
+#Caculator
+
+num1=int(input("enter the num1 : "))
+num2=int(input("enter the num2 : "))
+
+oper=input("enter the operator : ")
+
+if oper=="+":
+    print(num1+num2)
+elif oper=="-":
+    print(num1-num2)
+elif oper=="*":
+    print(num1*num2)
+elif oper=="/":
+    print(num1/num2)
+else:
+    print("invalid operator")
