@@ -104,18 +104,43 @@
 
 #Caculator
 
-num1=int(input("enter the num1 : "))
-num2=int(input("enter the num2 : "))
+# num1=int(input("enter the num1 : "))
+# num2=int(input("enter the num2 : "))
 
-oper=input("enter the operator : ")
+# oper=input("enter the operator : ")
 
-if oper=="+":
-    print(num1+num2)
-elif oper=="-":
-    print(num1-num2)
-elif oper=="*":
-    print(num1*num2)
-elif oper=="/":
-    print(num1/num2)
-else:
-    print("invalid operator")
+# if oper=="+":
+#     print(num1+num2)
+# elif oper=="-":
+#     print(num1-num2)
+# elif oper=="*":
+#     print(num1*num2)
+# elif oper=="/":
+#     print(num1/num2)
+# else:
+#     print("invalid operator")
+
+
+# str="akash"
+
+# print(str[0])
+
+#Slicing
+
+# name="abcdefghijklnmopqrstuvwxyz"
+
+# print(len(name))
+
+# print(name[0:4:2])
+
+# print(name[::-1])
+
+# print(name.upper())
+# print(name.lower())
+# print(len(name))
+# print(name.replace('b','a'))
+# print(name.count('a'))
+
+# print("hello\"s world")
+
+
