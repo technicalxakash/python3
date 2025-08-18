@@ -144,3 +144,16 @@
 # print("hello\"s world")
 
 
+name="Hello, World!"
+
+smaller=name.lower()
+
+a=smaller.count('a')
+e=smaller.count('e')
+i=smaller.count('i')
+o=smaller.count('o')
+u=smaller.count('u')
+
+print(f"number of vowels are :{a+e+i+o+u}")
+
+
