@@ -144,16 +144,49 @@
 # print("hello\"s world")
 
 
-name="Hello, World!"
+# name="Hello, World!"
 
-smaller=name.lower()
+# smaller=name.lower()
 
-a=smaller.count('a')
-e=smaller.count('e')
-i=smaller.count('i')
-o=smaller.count('o')
-u=smaller.count('u')
+# a=smaller.count('a')
+# e=smaller.count('e')
+# i=smaller.count('i')
+# o=smaller.count('o')
+# u=smaller.count('u')
 
-print(f"number of vowels are :{a+e+i+o+u}")
+# print(f"number of vowels are :{a+e+i+o+u}")
 
 
+# math=int(input("enter the math marks : "))
+# Science=int(input("enter the Science marks : "))
+# English=int(input("enter the English marks : "))
+
+# total=math+Science+English
+# print(f"Total Marks : {total}")
+# Average=total/3
+# print(f"Average Marks : {Average}")
+
+# if(Average>=65) and (Average<=75):
+#     print("B")
+# elif(Average>=75) and (Average<=90):
+#     print("B+")
+# else:
+#     print("A")
+
+
+
+
+# name=input("Enter the name : ")
+
+# name1=name[::-1]
+
+# if name==name1:
+#     print(f"{name} is a palindrome")
+# else:
+#     print(f"{name} is not a palindrome")
+
+
+import math as m
+a =int(input("Enter a number"))
+res = int(m.log10(a)+1)
+print(res)
